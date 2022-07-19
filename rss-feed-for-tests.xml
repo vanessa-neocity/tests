@@ -10,6 +10,18 @@ This XML file does not appear to have any style information associated with it. 
 <atom:link href="https://www.agglo-carene.fr/liens-utiles/flux-rss/rss-agenda/flux.rss" rel="self" type="application/rss+xml"/>
 <generator>TYPO3 EXT:news</generator>
 <item>
+<title>Test auto notifications 3</title>
+<link>https://coolors.co/ffdde2-efd6d2-ff8cc6-de369d-6f5e76</link>
+<category>Visites, musées</category>
+<content:encoded>
+<![CDATA[ Parcourez les avenues de Pornichet à la découverte de ses villas nichées dans leur écrin de verdure. Une visite incontournable pour admirer le patrimoine architectural de la ville et contempler ses belles villas qui ont fait de Pornichet une station renommée à la Belle Époque. <p></p> Tarif : Payant <p></p> Renseignement : 0240613333, info@pornichet.fr, http://www.pornichet.fr <p></p> Organisateur : office de tourisme ]]>
+</content:encoded>
+<image>https://www.agglo-carene.fr/fileadmin/images/InfoLocale/infolocale_7425226_0.jpg</image>
+<pubDate>Tue, 19 Jul 2022 16:27:28 +0200</pubDate>
+<geo:lat>47.25963</geo:lat>
+<geo:long>-2.339715</geo:long>
+</item>
+<item>
 <title>Test auto notifications 2</title>
 <link>https://printedgoods.net</link>
 <category>Visites, musées</category>
