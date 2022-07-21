@@ -10,6 +10,96 @@ This XML file does not appear to have any style information associated with it. 
     <atom:link href="https://www.agglo-carene.fr/liens-utiles/flux-rss/rss-agenda/flux.rss" rel="self" type="application/rss+xml"/>
     <generator>TYPO3 EXT:news</generator>
      <item>
+       <title>Test auto notifications 19 with a longer title to test the characters limit bla bla out of words</title>
+       <link>https://www.grenoble.fr</link>
+       <content:encoded>
+        <![CDATA[ Parcourez les avenues de Grenoble à la découverte de ses villas nichées dans leur écrin de verdure. Une visite incontournable pour admirer le patrimoine architectural de la ville et contempler ses belles villas qui ont fait de Pornichet une station renommée à la Belle Époque. <p></p> Tarif : Payant <p></p> Renseignement : 0240613333, info@pornichet.fr, http://www.pornichet.fr <p></p> Organisateur : office de tourisme ]]>
+       </content:encoded>
+       <image>https://www.easyjet.com/ejcms/cache/medialibrary/Images/JSS/Destinations/Hero/France_Grenoble_3840x2160.jpg</image>
+       <pubDate>Thu, 21 Jul 2022 12:17:28 +0200</pubDate>
+    </item>
+    <item>
+       <title>Test auto notifications 18</title>
+       <link>http://www.montargis.fr/</link>
+       <content:encoded>
+        <![CDATA[ Parcourez les avenues de Montargis à la découverte de ses villas nichées dans leur écrin de verdure. Une visite incontournable pour admirer le patrimoine architectural de la ville et contempler ses belles villas qui ont fait de Pornichet une station renommée à la Belle Époque. <p></p> Tarif : Payant <p></p> Renseignement : 0240613333, info@pornichet.fr, http://www.pornichet.fr <p></p> Organisateur : office de tourisme ]]>
+       </content:encoded>
+       <image>https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Montargis-canal-France.JPG/640px-Montargis-canal-France.JPG</image>
+       <pubDate>Thu, 21 Jul 2022 12:16:28 +0200</pubDate>
+    </item>
+    <item>
+       <title>Test auto notifications 17</title>
+       <link>https://www.amilly.com</link>
+       <content:encoded>
+        <![CDATA[ Parcourez les avenues de Amilly à la découverte de ses villas nichées dans leur écrin de verdure. Une visite incontournable pour admirer le patrimoine architectural de la ville et contempler ses belles villas qui ont fait de Pornichet une station renommée à la Belle Époque. <p></p> Tarif : Payant <p></p> Renseignement : 0240613333, info@pornichet.fr, http://www.pornichet.fr <p></p> Organisateur : office de tourisme ]]>
+       </content:encoded>
+       <image>https://www.tourisme-montargis.fr/wp-content/uploads/2018/05/DSC04320.jpg</image>
+       <pubDate>Thu, 21 Jul 2022 12:15:28 +0200</pubDate>
+    </item>
+    <item>
+       <title>Test auto notifications 16</title>
+       <link>https://www.versailles.fr/</link>
+       <content:encoded>
+        <![CDATA[ Parcourez les avenues de Versailles à la découverte de ses villas nichées dans leur écrin de verdure. Une visite incontournable pour admirer le patrimoine architectural de la ville et contempler ses belles villas qui ont fait de Pornichet une station renommée à la Belle Époque. <p></p> Tarif : Payant <p></p> Renseignement : 0240613333, info@pornichet.fr, http://www.pornichet.fr <p></p> Organisateur : office de tourisme ]]>
+       </content:encoded>
+       <image>https://cdn.getyourguide.com/img/location/60096cf3a473d.jpeg/99.jpg</image>
+       <pubDate>Thu, 21 Jul 2022 12:14:28 +0200</pubDate>
+    </item>
+    <item>
+       <title>Test auto notifications 15</title>
+       <link>https://www.giverny.fr/</link>
+       <content:encoded>
+        <![CDATA[ Parcourez les avenues de Giverny à la découverte de ses villas nichées dans leur écrin de verdure. Une visite incontournable pour admirer le patrimoine architectural de la ville et contempler ses belles villas qui ont fait de Pornichet une station renommée à la Belle Époque. <p></p> Tarif : Payant <p></p> Renseignement : 0240613333, info@pornichet.fr, http://www.pornichet.fr <p></p> Organisateur : office de tourisme ]]>
+       </content:encoded>
+       <image>https://www.normandie-tourisme.fr/wp-content/uploads/2020/03/maison-monet-giverny-fondation-claude-monet-giverny-fondation-claude-monet-giverny.jpg</image>
+       <pubDate>Thu, 21 Jul 2022 12:13:28 +0200</pubDate>
+    </item>
+    <item>
+       <title>Test auto notifications 14</title>
+       <link>https://www.ville-amboise.fr</link>
+       <content:encoded>
+        <![CDATA[ Parcourez les avenues de Amboise à la découverte de ses villas nichées dans leur écrin de verdure. Une visite incontournable pour admirer le patrimoine architectural de la ville et contempler ses belles villas qui ont fait de Pornichet une station renommée à la Belle Époque. <p></p> Tarif : Payant <p></p> Renseignement : 0240613333, info@pornichet.fr, http://www.pornichet.fr <p></p> Organisateur : office de tourisme ]]>
+       </content:encoded>
+       <image>https://www.my-loire-valley.com/wp-content/uploads/2019/04/1.2-Amboise-vu-de-la-loire-%C2%A92018-Jo%C3%ABl-Klinger-FSL.jpg</image>
+       <pubDate>Thu, 21 Jul 2022 12:12:28 +0200</pubDate>
+    </item>
+    <item>
+       <title>Test auto notifications 13</title>
+       <link>https://www.ville-dunkerque.fr/</link>
+       <content:encoded>
+        <![CDATA[ Parcourez les avenues de Dunkerque à la découverte de ses villas nichées dans leur écrin de verdure. Une visite incontournable pour admirer le patrimoine architectural de la ville et contempler ses belles villas qui ont fait de Pornichet une station renommée à la Belle Époque. <p></p> Tarif : Payant <p></p> Renseignement : 0240613333, info@pornichet.fr, http://www.pornichet.fr <p></p> Organisateur : office de tourisme ]]>
+       </content:encoded>
+       <image>https://woody.cloudly.space/app/uploads/dunkerque/2022/03/thumbs/plage-malo-les-bains-kiosques-vue-aerienne-640x480.jpg</image>
+       <pubDate>Thu, 21 Jul 2022 12:11:28 +0200</pubDate>
+    </item>
+    <item>
+       <title>Test auto notifications 12</title>
+       <link>https://www.lille.fr/</link>
+       <content:encoded>
+        <![CDATA[ Parcourez les avenues de Lille à la découverte de ses villas nichées dans leur écrin de verdure. Une visite incontournable pour admirer le patrimoine architectural de la ville et contempler ses belles villas qui ont fait de Pornichet une station renommée à la Belle Époque. <p></p> Tarif : Payant <p></p> Renseignement : 0240613333, info@pornichet.fr, http://www.pornichet.fr <p></p> Organisateur : office de tourisme ]]>
+       </content:encoded>
+       <image>https://www.lonelyplanet.fr/sites/lonelyplanet/files/styles/manual_crop/public/media/destination/slider/mobile/lille2.jpg</image>
+       <pubDate>Thu, 21 Jul 2022 12:10:28 +0200</pubDate>
+    </item>
+    <item>
+       <title>Test auto notifications 11</title>
+       <link>https://www.vendome.eu</link>
+       <content:encoded>
+        <![CDATA[ Parcourez les avenues de Vendôme à la découverte de ses villas nichées dans leur écrin de verdure. Une visite incontournable pour admirer le patrimoine architectural de la ville et contempler ses belles villas qui ont fait de Pornichet une station renommée à la Belle Époque. <p></p> Tarif : Payant <p></p> Renseignement : 0240613333, info@pornichet.fr, http://www.pornichet.fr <p></p> Organisateur : office de tourisme ]]>
+       </content:encoded>
+       <image>https://dynamic-media-cdn.tripadvisor.com/media/photo-o/09/11/5a/b5/abbaye-de-la-trinite.jpg</image>
+       <pubDate>Thu, 21 Jul 2022 12:09:28 +0200</pubDate>
+    </item>
+    <item>
+       <title>Test auto notifications 10 with a longer title to test the limit of characters</title>
+       <link>https://www.cloyeslestroisrivieres.fr/</link>
+       <content:encoded>
+        <![CDATA[ Parcourez les avenues de Cloyes-sur-le-Loir à la découverte de ses villas nichées dans leur écrin de verdure. Une visite incontournable pour admirer le patrimoine architectural de la ville et contempler ses belles villas qui ont fait de Pornichet une station renommée à la Belle Époque. <p></p> Tarif : Payant <p></p> Renseignement : 0240613333, info@pornichet.fr, http://www.pornichet.fr <p></p> Organisateur : office de tourisme ]]>
+       </content:encoded>
+       <image>https://www.village-etape.fr/wp-content/uploads/2019/07/dsc03299-1024x682.jpg</image>
+       <pubDate>Thu, 21 Jul 2022 12:08:28 +0200</pubDate>
+    </item>
+    <item>
        <title>Test auto notifications 10</title>
        <link>https://www.ville-bonneval.eu</link>
        <content:encoded>
