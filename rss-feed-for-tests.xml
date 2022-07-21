@@ -10,6 +10,15 @@ This XML file does not appear to have any style information associated with it. 
     <atom:link href="https://www.agglo-carene.fr/liens-utiles/flux-rss/rss-agenda/flux.rss" rel="self" type="application/rss+xml"/>
     <generator>TYPO3 EXT:news</generator>
      <item>
+       <title>Test auto notifications 20</title>
+       <link>https://mairie-acheres78.fr</link>
+       <content:encoded>
+        <![CDATA[ Parcourez les avenues de Achères à la découverte de ses villas nichées dans leur écrin de verdure. Une visite incontournable pour admirer le patrimoine architectural de la ville et contempler ses belles villas qui ont fait de Pornichet une station renommée à la Belle Époque. <p></p> Tarif : Payant <p></p> Renseignement : 0240613333, info@pornichet.fr, http://www.pornichet.fr <p></p> Organisateur : office de tourisme ]]>
+       </content:encoded>
+       <image>https://www.leparisien.fr/resizer/UMoE0FYkzODBTmxXlczr2reVOec=/932x582/arc-anglerfish-eu-central-1-prod-leparisien.s3.amazonaws.com/public/OKOIXUEU5TDCZ6RW2X7O6HGFOM.jpg</image>
+       <pubDate>Thu, 21 Jul 2022 14:17:28 +0200</pubDate>
+    </item>
+    <item>
        <title>Test auto notifications 19 with a longer title to test the characters limit bla bla out of words</title>
        <link>https://www.grenoble.fr</link>
        <content:encoded>
