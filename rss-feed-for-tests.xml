@@ -10,6 +10,15 @@ This XML file does not appear to have any style information associated with it. 
     <atom:link href="https://www.agglo-carene.fr/liens-utiles/flux-rss/rss-agenda/flux.rss" rel="self" type="application/rss+xml"/>
     <generator>TYPO3 EXT:news</generator>
      <item>
+       <title>Test auto notifications 9</title>
+       <link>http://www.ville-chateaudun.fr</link>
+       <content:encoded>
+        <![CDATA[ Parcourez les avenues de Châteaudun à la découverte de ses villas nichées dans leur écrin de verdure. Une visite incontournable pour admirer le patrimoine architectural de la ville et contempler ses belles villas qui ont fait de Pornichet une station renommée à la Belle Époque. <p></p> Tarif : Payant <p></p> Renseignement : 0240613333, info@pornichet.fr, http://www.pornichet.fr <p></p> Organisateur : office de tourisme ]]>
+       </content:encoded>
+       <image>http://www.ville-chateaudun.fr/var/ville_chateaudun/storage/images/mediatheque/votre-ville/a-decouvrir/100_1086/317219-1-fre-FR/100_1086_large.jpg</image>
+       <pubDate>Thu, 21 Jul 2022 12:05:28 +0200</pubDate>
+    </item>
+    <item>
        <title>Test auto notifications 8</title>
        <link>https://www.chartres.fr</link>
        <content:encoded>
