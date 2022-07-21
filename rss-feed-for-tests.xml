@@ -10,6 +10,16 @@ This XML file does not appear to have any style information associated with it. 
     <atom:link href="https://www.agglo-carene.fr/liens-utiles/flux-rss/rss-agenda/flux.rss" rel="self" type="application/rss+xml"/>
     <generator>TYPO3 EXT:news</generator>
      <item>
+       <title>Test auto notifications 21 avec des balises</title>
+       <link>https://www.toulouse.fr/</link>
+       <content:encoded>
+        <![CDATA[ <h1>Ceci est un merveilleux titre.</h1><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p> 
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p> ]]>
+       </content:encoded>
+       <image>https://static.actu.fr/uploads/2020/12/adobestock-287216683-1.jpeg</image>
+       <pubDate>Thu, 21 Jul 2022 15:40:28 +0200</pubDate>
+    </item>
+    <item>
        <title>Test auto notifications 21</title>
        <link>https://www.brest.fr/brestfr-accueil-1575.html</link>
        <content:encoded>
