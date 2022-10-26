@@ -1,0 +1,29 @@
+This XML file does not appear to have any style information associated with it. The document tree is shown below.
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:ev="https://web.resource.org/rss/1.0/modules/event" version="2.0">
+<channel>
+<title>Test pinned events in Carousel</title>
+<link>http://example.com</link>
+<description/>
+<language>fr</language>
+<copyright>Test pinned events in Carousel</copyright>
+<pubDate>Wed, 26 Oct 2022 14:36:28 +0200</pubDate>
+<lastBuildDate>Wed, 26 Oct 2022 14:36:28 +0200</lastBuildDate>
+<atom:link href="https://www.agglo-carene.fr/liens-utiles/flux-rss/rss-agenda/flux.rss" rel="self" type="application/rss+xml"/>
+<generator>TYPO3 EXT:news</generator>
+<item>
+<title>Test pinned from xml file</title>
+<link>https://www.saintnazaire.fr/agenda/villas-belle-epoque-24269</link>
+<category>Visites, musées</category>
+<content:encoded>
+<![CDATA[ Parcourez les avenues de Pornichet à la découverte de ses villas nichées dans leur écrin de verdure. Une visite incontournable pour admirer le patrimoine architectural de la ville et contempler ses belles villas qui ont fait de Pornichet une station renommée à la Belle Époque. <p></p> Tarif : Payant <p></p> Renseignement : 0240613333, info@pornichet.fr, http://www.pornichet.fr <p></p> Organisateur : office de tourisme ]]>
+</content:encoded>
+<image>https://www.agglo-carene.fr/fileadmin/images/InfoLocale/infolocale_7425226_0.jpg</image>
+<ev:startdate>Thu, 27 Oct 2022 00:00:00 +0100</ev:startdate>
+<ev:enddate>Thu, 27 Oct 2022 23:00:00 +0100<ev:enddate/>
+<ev:location/>
+<geo:lat>47.25963</geo:lat>
+<geo:long>-2.339715</geo:long>
+<ev:isPinned>True</ev:isPinned>
+</item>
+</channel>
+</rss>
