@@ -15,7 +15,6 @@
 	<description></description>
 	<lastBuildDate>Thu, 03 Nov 2022 14:24:41 +0000</lastBuildDate>
 	<language>fr-FR</language>
-    <ev:isPinned>True</ev:isPinned>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
@@ -90,12 +89,13 @@
 		
 		
 			<media:content url="https://ville-tinqueux.fr/wp-content/uploads/2022/10/thedansantafdt-1024x576.jpg" medium="image" />
-<image><url>https://ville-tinqueux.fr/wp-content/uploads/2022/10/thedansantafdt.jpg</url><format-paysage>https://ville-tinqueux.fr/wp-content/uploads/2022/10/thedansantafdt-360x202.jpg</format-paysage></image><category>ASSOCIATION</category><ev:startdate xmlns:ev="http://www.w3.org/2001/XMLSchema-instance">Tue, 15 Nov 2022 14:00:00 +0000</ev:startdate><ev:enddate xmlns:ev="http://www.w3.org/2001/XMLSchema-instance">Tue, 15 Nov 2022 18:00:00 +0000</ev:enddate>	</item>
+<image><url>https://ville-tinqueux.fr/wp-content/uploads/2022/10/thedansantafdt.jpg</url><format-paysage>https://ville-tinqueux.fr/wp-content/uploads/2022/10/thedansantafdt-360x202.jpg</format-paysage></image><category>ASSOCIATION</category><ev:startdate xmlns:ev="http://www.w3.org/2001/XMLSchema-instance">Tue, 15 Nov 2023 14:00:00 +0000</ev:startdate><ev:enddate xmlns:ev="http://www.w3.org/2001/XMLSchema-instance">Tue, 15 Nov 2023 18:00:00 +0000</ev:enddate>	</item>
 		<item>
 		<title>CYCLO-CROSS TINQUEUX</title>
 		<link>https://ville-tinqueux.fr/lsvrevent/cyclo-cross-tinqueux/</link>
 		
 		<dc:creator><![CDATA[François DANGIN]]></dc:creator>
+		<ev:isPinned>True</ev:isPinned>
 		<pubDate>Wed, 26 Oct 2022 13:01:55 +0000</pubDate>
 				<guid isPermaLink="false">https://ville-tinqueux.fr/?post_type=lsvrevent&#038;p=91112</guid>
 
